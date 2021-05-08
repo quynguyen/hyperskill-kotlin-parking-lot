@@ -183,6 +183,9 @@ files:
         }
     }
   learner_created: false
+- name: src/parking/Main.kt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/75/stages/420/implement
 status: Solved
 record: 4
